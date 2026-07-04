@@ -27,13 +27,9 @@ O fluxo foi estruturado utilizando técnicas de Prompt Engineering, Conversation
 
 * Atendimento automatizado.
 * Qualificação consultiva de clientes.
-* Recomendação inteligente de produtos.
 * Fluxos condicionais por tipo de aplicação.
 * Apresentação automática de imagens.
-* Tratamento de objeções.
 * Encaminhamento comercial.
-* Suporte técnico inicial.
-* Triagem de oportunidades comerciais.
 
 ---
 
@@ -50,8 +46,6 @@ O fluxo foi estruturado utilizando técnicas de Prompt Engineering, Conversation
 | Novos Leads           | 45        |
 | Leads Qualificados    | 11        |
 | Taxa de Qualificação  | 24,44%    |
-| Follow-ups Realizados | 0         |
-| Mensagens Processadas | 334       |
 
 ### Evolução em Relação ao Período Anterior
 
@@ -60,19 +54,14 @@ O fluxo foi estruturado utilizando técnicas de Prompt Engineering, Conversation
 | Novos Leads           | +20         |
 | Leads Qualificados    | +7          |
 | Taxa de Qualificação  | +8,44%      |
-| Follow-ups Realizados | 0           |
-| Mensagens Processadas | +83         |
 
 ### Impacto Gerado
 
 * 45 novos leads atendidos pelo agente.
 * 11 oportunidades qualificadas para a equipe comercial.
 * Taxa de qualificação de 24,44%.
-* 334 mensagens processadas automaticamente.
-* Crescimento de 20 novos leads em relação ao período anterior.
 * Aumento de 7 leads qualificados.
 * Evolução de 8,44% na taxa de qualificação.
-* Crescimento de 83 mensagens processadas em comparação ao período anterior.
 
 ## Análise dos Resultados
 
@@ -105,16 +94,10 @@ Após a qualificação, as oportunidades são encaminhadas para a equipe comerci
 
 ## Tecnologias e Conceitos Aplicados
 
-* Prompt Engineering
-* Conversational Design
-* AI Agents
-* Lead Qualification
-* Sales Automation
-* Product Recommendation Systems
-* Customer Journey Mapping
-* Atendimento Conversacional
-* Fluxos Condicionais
-* Automação Comercial
+- Prompt Engineering
+- AI Agents
+- Conversational Design
+- Sales Automation
 
 ---
 
