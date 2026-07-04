@@ -535,7 +535,7 @@ enviar link
 
 6.1 Link
 
-https://evo-totem.w12app.com.br/evo/8117/totem/campanha/false
+[LINK]
 
 6.2 Regra principal
 
@@ -585,7 +585,7 @@ Exemplos de gatilho:
 
 Vou te enviar o link de cadastro:
 
-https://evo-totem.w12app.com.br/evo/8117/totem/campanha/false
+[LINK]
 
 Assim que finalizar, me avisa aqui pra eu seguir com a atualização, combinado?"
 
