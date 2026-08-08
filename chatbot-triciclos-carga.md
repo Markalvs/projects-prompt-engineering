@@ -2,97 +2,71 @@
 
 ## Sobre o Projeto
 
-Este projeto consiste em um agente de IA desenvolvido para qualificação de clientes, atendimento comercial e recomendação de produtos para uma fabricante nacional de triciclos de carga.
+Agente de IA desenvolvido para **qualificação de clientes, atendimento comercial e recomendação de produtos** para uma fabricante de triciclos de carga.
 
-O agente foi projetado para conduzir todo o processo inicial de atendimento, identificando a necessidade operacional do cliente, recomendando o modelo mais adequado para cada aplicação e encaminhando oportunidades qualificadas para a equipe comercial.
+A solução identifica a necessidade operacional do cliente, recomenda o modelo mais adequado para cada aplicação, responde dúvidas e encaminha oportunidades qualificadas para a equipe comercial.
 
-O fluxo foi estruturado utilizando técnicas de Prompt Engineering, Conversational Design e automação comercial, garantindo padronização no atendimento, redução do tempo de resposta e aumento da eficiência operacional.
-
----
-
-## Objetivos do Agente
-
-* Qualificar potenciais compradores.
-* Identificar a aplicação e necessidade de transporte.
-* Recomendar o modelo ideal para cada operação.
-* Apresentar imagens e especificações dos produtos.
-* Responder dúvidas técnicas e comerciais.
-* Tratar objeções durante o processo de compra.
-* Encaminhar leads qualificados para a equipe de vendas.
-* Reduzir o tempo gasto pela equipe comercial.
+O fluxo utiliza **Prompt Engineering, Conversational Design e automação comercial**.
 
 ---
 
 ## Principais Funcionalidades
 
-* Atendimento automatizado.
-* Qualificação consultiva de clientes.
-* Fluxos condicionais por tipo de aplicação.
-* Apresentação automática de imagens.
-* Encaminhamento comercial.
+- Atendimento comercial automatizado;
+- Qualificação consultiva de clientes;
+- Identificação da aplicação e necessidade de transporte;
+- Recomendação de produtos;
+- Apresentação de imagens e especificações;
+- Tratamento de dúvidas e objeções;
+- Encaminhamento de leads qualificados para vendas.
 
 ---
 
-## Resultados Obtidos
+## Resultados
 
-### Dashboard de Performance
-
-![Dashboard do Agente](./assets/triciclos.png)
-
-### Métricas Operacionais
-
-| Indicador             | Resultado |
-| --------------------- | --------- |
-| Novos Leads           | 45        |
-| Leads Qualificados    | 11        |
-| Taxa de Qualificação  | 24,44%    |
+| Indicador | Resultado |
+|---|---:|
+| Novos Leads | 45 |
+| Leads Qualificados | 11 |
+| Taxa de Qualificação | 24,44% |
 
 ### Evolução em Relação ao Período Anterior
 
-| Indicador             | Crescimento |
-| --------------------- | ----------- |
-| Novos Leads           | +20         |
-| Leads Qualificados    | +7          |
-| Taxa de Qualificação  | +8,44%      |
+| Indicador | Evolução |
+|---|---:|
+| Novos Leads | +20 |
+| Leads Qualificados | +7 |
+| Taxa de Qualificação | +8,44% |
 
-### Impacto Gerado
+---
 
-* 45 novos leads atendidos pelo agente.
-* 11 oportunidades qualificadas para a equipe comercial.
-* Taxa de qualificação de 24,44%.
-* Aumento de 7 leads qualificados.
-* Evolução de 8,44% na taxa de qualificação.
+## Impacto
 
-## Análise dos Resultados
+Durante o período analisado, o agente atendeu **45 novos leads** e qualificou **11 oportunidades**, alcançando uma taxa de qualificação de **24,44%**.
 
-O agente automatizou a qualificação inicial de clientes interessados em soluções de transporte de carga, conduzindo atendimentos de forma estruturada e orientada para conversão.
-
-Durante o período analisado, foram gerados 45 novos leads, dos quais 11 foram qualificados, contribuindo para maior eficiência no processo comercial e melhor direcionamento das oportunidades para a equipe de vendas.
+Em relação ao período anterior, houve aumento de **7 leads qualificados** e evolução de **8,44% na taxa de qualificação**.
 
 ---
 
 ## Fluxo de Atendimento
 
-O agente identifica a necessidade do cliente, recomenda o modelo mais adequado para a aplicação desejada, apresenta informações relevantes sobre o produto e esclarece dúvidas iniciais.
-
-Após a qualificação, as oportunidades são encaminhadas para a equipe comercial responsável pela negociação.
-
----
-
-## Diferenciais da Solução
-
-* Qualificação automatizada de leads.
-* Recomendação personalizada de produtos.
-* Atendimento consultivo e padronizado.
-* Tratamento inicial de dúvidas e objeções.
-* Encaminhamento de oportunidades qualificadas para vendas.
-* Redução do esforço operacional da equipe comercial.
-
+```text
+Atendimento
+     ↓
+Identificação da Necessidade
+     ↓
+Qualificação
+     ↓
+Recomendação do Produto
+     ↓
+Dúvidas e Objeções
+     ↓
+Encaminhamento para Vendas
+```
 
 ---
 
-
-## Tecnologias e Conceitos Aplicados
+## Tecnologias e Conceitos
 
 - Prompt Engineering
 - AI Agents
@@ -101,11 +75,19 @@ Após a qualificação, as oportunidades são encaminhadas para a equipe comerci
 
 ---
 
-## Estrutura do Prompt
+## Diferenciais
 
-O prompt foi desenvolvido para controlar todo o fluxo comercial do agente, desde a identificação da necessidade do cliente até a recomendação do modelo ideal e encaminhamento para a equipe comercial.
+- Qualificação consultiva automatizada;
+- Recomendação personalizada de produtos;
+- Atendimento comercial padronizado;
+- Apresentação de informações e especificações;
+- Encaminhamento estruturado para a equipe de vendas.
 
 ---
+
+## Estrutura do Prompt
+
+O prompt foi desenvolvido para controlar o fluxo comercial do agente, desde a identificação da necessidade do cliente até a recomendação do produto e encaminhamento da oportunidade para a equipe comercial.
 
 # PROMPT
 
