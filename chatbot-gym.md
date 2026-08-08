@@ -2,45 +2,39 @@
 
 ## Sobre o Projeto
 
-Este projeto consiste em um agente de IA desenvolvido para qualificação de leads, atendimento comercial e condução de potenciais clientes até o agendamento de visitas presenciais.
+Agente de IA desenvolvido para **qualificação de leads, atendimento comercial e condução de potenciais clientes até o agendamento de visitas presenciais**.
 
-O agente foi projetado para atuar durante toda a jornada inicial do cliente, respondendo dúvidas, qualificando oportunidades, tratando objeções e conduzindo o lead para a etapa de agendamento com o menor atrito possível.
-
-O fluxo foi estruturado utilizando técnicas de Prompt Engineering, Conversational Design e automação comercial, garantindo padronização no atendimento e aumento da eficiência operacional.
+A solução utiliza técnicas de **Prompt Engineering, Conversational Design e automação comercial** para padronizar o atendimento, tratar objeções e realizar follow-ups durante a jornada inicial do cliente.
 
 ---
 
-## Objetivos do Agente
+## Objetivos
 
-- Qualificar leads automaticamente.
-- Responder dúvidas em tempo real.
-- Identificar intenção de compra.
-- Conduzir usuários para agendamento presencial.
-- Realizar follow-ups automáticos.
-- Aumentar a taxa de conversão comercial.
-- Reduzir o tempo gasto pela equipe de vendas.
+- Qualificar leads automaticamente;
+- Responder dúvidas em tempo real;
+- Identificar intenção de compra;
+- Tratar objeções;
+- Conduzir leads ao agendamento;
+- Automatizar follow-ups;
+- Reduzir o esforço operacional da equipe comercial.
 
 ---
 
 ## Principais Funcionalidades
 
-- Atendimento automatizado.
-- Qualificação de leads.
-- Tratamento de objeções.
-- Agendamento de visitas.
-- Follow-up automático.
+- Atendimento automatizado;
+- Qualificação de leads;
+- Tratamento de objeções;
+- Agendamento de visitas;
+- Follow-ups automáticos;
 - Condução para conversão.
 
 ---
 
-## Resultados Obtidos
-
-![Dashboard do Agente](assets/faixa-preta.png)
-
-### Métricas Operacionais
+## Resultados
 
 | Indicador | Resultado |
-|-----------|------------|
+|---|---:|
 | Novos Leads | 55 |
 | Leads Qualificados | 27 |
 | Taxa de Qualificação | 49,09% |
@@ -48,52 +42,43 @@ O fluxo foi estruturado utilizando técnicas de Prompt Engineering, Conversation
 
 ### Evolução em Relação ao Período Anterior
 
-| Indicador | Crescimento |
-|-----------|-------------|
+| Indicador | Evolução |
+|---|---:|
 | Leads Qualificados | +4 |
 | Taxa de Qualificação | +16,23% |
 | Follow-ups Realizados | +82 |
 
-## Impacto Gerado
-
-* 55 novos leads atendidos pelo agente.
-* 27 oportunidades qualificadas para a equipe comercial.
-* Taxa de qualificação de 49,09%.
-* 92 follow-ups realizados automaticamente.
-* Crescimento de 16,23% na taxa de qualificação em relação ao período anterior.
-* Aumento da eficiência no processo de conversão e agendamento presencial.
-
 ---
 
-## Análise dos Resultados
+## Impacto
 
-O agente automatizou a jornada inicial de atendimento, qualificação e conversão de leads, conduzindo potenciais clientes até a etapa de agendamento presencial de forma estruturada e orientada para resultados.
+Durante o período analisado, o agente atendeu **55 novos leads**, qualificou **27 oportunidades** e realizou **92 follow-ups automaticamente**.
 
-Durante o período analisado, foram gerados 55 novos leads, dos quais 27 foram qualificados, demonstrando eficiência na identificação de oportunidades e no direcionamento dos contatos com maior potencial de conversão.
+A taxa de qualificação atingiu **49,09%**, representando uma evolução de **16,23% em relação ao período anterior**, além de reduzir o esforço operacional da equipe comercial.
 
 ---
 
 ## Fluxo de Atendimento
 
-O agente realiza a identificação das necessidades do cliente, responde dúvidas, apresenta os serviços disponíveis e conduz o lead para o agendamento de uma experiência inicial ou visita presencial.
-
-Ao longo da jornada, são aplicadas estratégias de qualificação, tratamento de objeções e follow-ups automáticos para maximizar a conversão das oportunidades.
+```text
+Atendimento
+     ↓
+Identificação da Necessidade
+     ↓
+Qualificação do Lead
+     ↓
+Tratamento de Objeções
+     ↓
+Follow-up
+     ↓
+Agendamento Presencial
+     ↓
+Conversão
+```
 
 ---
 
-## Diferenciais da Solução
-
-* Qualificação automatizada de leads.
-* Agendamento de visitas e experiências presenciais.
-* Follow-ups automáticos para recuperação de oportunidades.
-* Atendimento comercial padronizado.
-* Tratamento inicial de dúvidas e objeções.
-* Condução do lead até a etapa de conversão.
-* Redução do esforço operacional da equipe comercial.
-
----
-
-## Tecnologias e Conceitos Aplicados
+## Tecnologias e Conceitos
 
 - Prompt Engineering
 - AI Agents
@@ -102,9 +87,22 @@ Ao longo da jornada, são aplicadas estratégias de qualificação, tratamento d
 
 ---
 
+## Diferenciais
+
+- Qualificação automatizada de leads;
+- Atendimento comercial padronizado;
+- Follow-ups automáticos;
+- Tratamento inicial de dúvidas e objeções;
+- Condução estruturada até o agendamento;
+- Redução do esforço operacional da equipe comercial.
+
+---
+
 ## Estrutura do Prompt
 
-O prompt abaixo foi desenvolvido para controlar todo o fluxo comercial do agente, desde a identificação do lead até o agendamento e conversão.
+O prompt foi desenvolvido para controlar o fluxo comercial do agente, desde a identificação e qualificação do lead até o agendamento e conversão.
+
+O projeto também contempla estratégias de **Prompt Engineering e Conversational Design** aplicadas à automação comercial.
 
 ---
 
