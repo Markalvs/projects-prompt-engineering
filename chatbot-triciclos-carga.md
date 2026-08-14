@@ -70,19 +70,6 @@ Encaminhamento para Vendas
 
 - Prompt Engineering
 - AI Agents
-- Conversational Design
-- Sales Automation
-
----
-
-## Diferenciais
-
-- Qualificação consultiva automatizada;
-- Recomendação personalizada de produtos;
-- Atendimento comercial padronizado;
-- Apresentação de informações e especificações;
-- Encaminhamento estruturado para a equipe de vendas.
-
 ---
 
 ## Estrutura do Prompt
