@@ -82,19 +82,6 @@ Conversão
 
 - Prompt Engineering
 - AI Agents
-- Conversational Design
-- Sales Automation
-
----
-
-## Diferenciais
-
-- Qualificação automatizada de leads;
-- Atendimento comercial padronizado;
-- Follow-ups automáticos;
-- Tratamento inicial de dúvidas e objeções;
-- Condução estruturada até o agendamento;
-- Redução do esforço operacional da equipe comercial.
 
 ---
 
