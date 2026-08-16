@@ -26,7 +26,6 @@ A solução utiliza técnicas de **Prompt Engineering, Conversational Design e a
 - Qualificação de leads;
 - Tratamento de objeções;
 - Agendamento de visitas;
-- Follow-ups automáticos;
 - Condução para conversão.
 
 ---
@@ -66,10 +65,6 @@ Atendimento
 Identificação da Necessidade
      ↓
 Qualificação do Lead
-     ↓
-Tratamento de Objeções
-     ↓
-Follow-up
      ↓
 Agendamento Presencial
      ↓
