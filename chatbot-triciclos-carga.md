@@ -59,8 +59,6 @@ Qualificação
      ↓
 Recomendação do Produto
      ↓
-Dúvidas e Objeções
-     ↓
 Encaminhamento para Vendas
 ```
 
