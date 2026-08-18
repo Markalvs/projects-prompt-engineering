@@ -6,8 +6,6 @@ Agente de IA desenvolvido para **qualificação de clientes, atendimento comerci
 
 A solução identifica a necessidade operacional do cliente, recomenda o modelo mais adequado para cada aplicação, responde dúvidas e encaminha oportunidades qualificadas para a equipe comercial.
 
-O fluxo utiliza **Prompt Engineering, Conversational Design e automação comercial**.
-
 ---
 
 ## Principais Funcionalidades
