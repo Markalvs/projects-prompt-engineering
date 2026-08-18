@@ -15,7 +15,6 @@ A solução utiliza técnicas de **Prompt Engineering, Conversational Design e a
 - Identificar intenção de compra;
 - Tratar objeções;
 - Conduzir leads ao agendamento;
-- Automatizar follow-ups;
 - Reduzir o esforço operacional da equipe comercial.
 
 ---
